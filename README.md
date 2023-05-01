@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Manav Singh
 - 👀 I’m interested in coding, problem solving.
 - 🌱 I’m currently learning React js, node js
+- 💞️ Skills: Kotlin, Flutter,Core PHP, Codeigniter PHP framework
 - 💞️ I’m looking to collaborate with open work 
 - 📫 How to reach me manavsingh839@gmail.com
 
