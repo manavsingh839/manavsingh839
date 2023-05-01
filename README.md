@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, problem solving.
 - 🌱 I’m currently learning React js, node js
 - 💞️ I’m looking to collaborate with open work 
-- 📫 How to reach me mailto:manavsingh839@gmail.com
+- 📫 How to reach me manavsingh839@gmail.com
 
 <!---
 manavsingh839/manavsingh839 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
