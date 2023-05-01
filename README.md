@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manavsingh839
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Manav Singh
+- 👀 I’m interested in coding, problem solving.
+- 🌱 I’m currently learning React js, node js
+- 💞️ I’m looking to collaborate with open work 
+- 📫 How to reach me mailto:manavsingh839@gmail.com
 
 <!---
 manavsingh839/manavsingh839 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
